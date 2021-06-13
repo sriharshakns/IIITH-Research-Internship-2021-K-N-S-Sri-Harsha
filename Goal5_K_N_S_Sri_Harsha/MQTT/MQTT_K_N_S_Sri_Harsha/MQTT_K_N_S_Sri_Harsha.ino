@@ -14,11 +14,11 @@ char pass[] = "welcome123";
         
 //MQTT Broker Settings & Topics
 char mqttUserName[] = "Water Level Sensing";  // Use any name.
-char mqttPass[] = "C4ZTIOF8ZWC4PNWA";      // MQTT API Key from Thingspeak Account > MyProfile.  
+char mqttPass[] = "";      // MQTT API Key from Thingspeak Account > MyProfile.  
 
 // Published Settings
-char writeAPIKey[] = "7GJ64TUZBA36F3NV";    // Channel write API key.
-long channelID = 1371826;                    // Channel ID.
+char writeAPIKey[] = "";    // Channel write API key.
+long channelID = ;                    // Channel ID.
 
 //Subscriber Settings (demo only).
 long subscribeChannelID_1 = 1371607;
