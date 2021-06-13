@@ -7,7 +7,7 @@
 #include <BlynkSimpleEsp8266.h>                    //Including the Blynk Library
 #include<Servo.h>                                  //Including the Servo Motor Library
 
-char auth[] = "edjGL8OZTUL--Bf9ZAPOCQTuIKg5EuVJ";   //Auth Token for the Blynk App
+char auth[] = "";   //Auth Token for the Blynk App
 char ssid[] = "HARSHA";                             //Initialize Wifi Credentials
 char pass[] = "welcome123";
 
