@@ -3,7 +3,7 @@
 #include <DHT.h>                                                      // Including the library of the DHT11 temperature and humidity sensor 
 #include <ESP8266WiFi.h>                                             //To use the Wi-Fi library
  
-String apiKey = "7D6RJTKVI0DTH4ZG";                                 //  Enter your Write API key from ThingSpeak
+String apiKey = "";                                 //  Enter your Write API key from ThingSpeak
 
 const char *ssid =  "HARSHA";                                       // Replace with your wifi ssid and wpa2 key
 const char *pass =  "welcome123";
